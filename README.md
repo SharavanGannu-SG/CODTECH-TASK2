@@ -1,7 +1,7 @@
 # CODTECH-TASK2
 
 Name: GANNU SHARAVAN
-Company: Codtech IT SOLUTIONS
+Company: CODTECH IT SOLUTIONS
 Id: CT12DS2044
 Domain: JAVA PROGRAMMING
 Duration: August to October, 2024
